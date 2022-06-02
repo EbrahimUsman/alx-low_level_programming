@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
  * main - use printf method to rint message
- * Retun: returns 0 if exit correctly else non-zero 
+ * Return: returns 0 if exit correctly else non-zero 
  */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art\n");
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 }
 
