@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- *starting of main method 
+*starting of main method 
 *this is program that simple prints the message specified
 */
 int main(void)
