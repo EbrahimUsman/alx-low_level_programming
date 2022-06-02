@@ -10,3 +10,4 @@ int main(void)
 	printf("size of a long: %d byte(s)\n", sizeof(long));
 	printf("size of a float: %d byte(s)\n", sizeof(float));
 	return (0);
+}
