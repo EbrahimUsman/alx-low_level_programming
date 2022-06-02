@@ -1,14 +1,13 @@
-#include <stdio.h>
+include <stdio.h>
 /**
- * main - prints the size of various data types
- * Return: 0 if excited correctly, non-zero otherwise
- */
+ * main - print the sizes of many data types
+ * Return: 0 if exits correctly,none-zero otherwise */
 int main(void)
 {
-        printf("size of a char: %d byte(s)\n", sizeof(char));
-        printf("size of an int: %d byte(s)\n", sizeof(int));
-        printf("size of a long int: %d byte(s)\n", sizeof(long int));
-        printf("size of a long long int: %d byte(s)\n", sizeof(long long int));
-        printf("size of a float: %d byte(s)\n", sizeof(float));
-        return (0);
+printf("size of a char: %d\n",sizeof(char));
+printf("size of an int: %d\n",sizeof(int));
+printf("size of a long int: %d\n",sizeof(long int));
+printf("size of a long long int:%d\n",sizeof(long long int));
+printf("size of a float: %d\n",sizeof(float));
+return (0);
 }
