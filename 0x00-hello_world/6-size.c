@@ -1,7 +1,8 @@
-include <stdio.h>
+#include <stdio.h>
 /**
  * main - print the sizes of many data types
- * Return: 0 if exits correctly,none-zero otherwise */
+ * Return: 0 if exits correctly,none-zero otherwise
+ */
 int main(void)
 {
 printf("size of a char: %d\n",sizeof(char));
