@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - use printf method to rint message
- * Return: returns 0 if exit correctly else non-zero 
+ * Return: 0 if exit correctly else non-zero 
  */
 int main(void)
 {
