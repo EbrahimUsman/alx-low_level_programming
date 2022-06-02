@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* main - this is program that simple prints the message specified
-* Return - 0 if exited exactly else non-zero
+* main - prints  message specified
+* Return: 0 if exited exactly else non-zero
 */
 int main(void)
 {
