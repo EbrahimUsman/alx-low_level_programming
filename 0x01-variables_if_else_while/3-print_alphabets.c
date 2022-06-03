@@ -10,7 +10,7 @@ char m;
 for(m = 'a'; m <= 'z'; m++)
 	putchar(m);
 for(m = 'A'; m <= 'Z'; m++)
-	putchar(n);
+	putchar(m);
 printf("\n");
 return (0);
 }
