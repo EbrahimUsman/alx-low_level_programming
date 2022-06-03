@@ -13,11 +13,11 @@
 
 	int m;
 	 m = n % 10;
-		if(n > 5)
+		if(m > 5)
 		{	
 		printf("Last digit of %d is greater than 5\n", n);
 		}
-		else if(n == 0)
+		else if(m == 0)
 		{
 		printf("Last digit of %d is 0\n", n);
 		}
