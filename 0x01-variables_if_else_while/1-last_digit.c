@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - this programs checks tha last digit of a number whether it is greater than 5 or 0 or less than 6
- * Return: it returns 0 if run correctly none-zero otherwise
+ * main - this programs checks tha last digit
+ * Return: it returns 0 if run correctly
  */
 int main(void)
 {
