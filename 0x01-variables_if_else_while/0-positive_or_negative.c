@@ -1,13 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
 /**
  * main - this program check whether randomly generated number is positive, negative or zero
- * Retrun: it returns zero if executed corectly or non-zero otherwise
- * */
+ * Return: it returns zero if executed corectly or non-zero otherwise
+ */
 int main(void)
 {
 	int n;
