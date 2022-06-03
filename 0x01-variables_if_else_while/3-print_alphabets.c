@@ -6,11 +6,16 @@
  * */
 int main(void)
 {
-char m;
-for(m = 'a'; m <= 'z'; m++)
-	putchar(m);
-for(m = 'A'; m <= 'Z'; m++)
-	putchar(m);
-printf("\n");
-return (0);
+	char m = 'a';
+
+	while(m <= 'z')
+	{
+		if (m != 'e' && m != 'q')
+		{
+			putchar(m);
+		}
+		m++;
+		putchar('\n');
+	printf("\n");
+	return (0);
 }
