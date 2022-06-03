@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /**
  * main - prints characters of upper case and lower case
- * Return: prints 0 if runs correctly none-zero 
+ * Return: prints 0 if runs correctly none-zero
  * */
 int main(void)
 {
