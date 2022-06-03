@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+
+
 /**
  * main - this program check whether randomly generated number is positive, negative or zero
  * Return: it returns zero if executed corectly or non-zero otherwise
