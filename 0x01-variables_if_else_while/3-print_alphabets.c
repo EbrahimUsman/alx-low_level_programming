@@ -15,6 +15,5 @@ int main(void)
 	for (m = 'A'; m <= 'Z'; m++)
 		putchar(m);
 	putchar('\n');
-	printf("\n");
 	return (0);
 }
